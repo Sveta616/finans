@@ -1,0 +1,10 @@
+C:\chubarkov2\Finances\obj\Debug\Finances.csproj.AssemblyReference.cache
+C:\chubarkov2\Finances\obj\Debug\Finances.Main.resources
+C:\chubarkov2\Finances\obj\Debug\Finances.Properties.Resources.resources
+C:\chubarkov2\Finances\obj\Debug\Finances.csproj.GenerateResource.cache
+C:\chubarkov2\Finances\obj\Debug\Finances.csproj.CoreCompileInputs.cache
+C:\chubarkov2\Finances\bin\Debug\Finances.exe.config
+C:\chubarkov2\Finances\bin\Debug\Finances.exe
+C:\chubarkov2\Finances\bin\Debug\Finances.pdb
+C:\chubarkov2\Finances\obj\Debug\Finances.exe
+C:\chubarkov2\Finances\obj\Debug\Finances.pdb
